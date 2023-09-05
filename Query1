@@ -19,4 +19,4 @@ SELECT * FROM [Order Details]
 WHERE Discount > 0
 
 SELECT * FROM Orders
-WHERE CustomerID = 'BOTTOM' AND Freight > 50
+WHERE CustomerID = 'BOTTM' AND Freight > 50
